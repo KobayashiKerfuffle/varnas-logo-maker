@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <polygon points="150,20 250,180 50,180" fill="red" />
-        <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="40" font-family="Arial">fff</text>
+        <rect x="70" y="50" width="160" height="160" fill="red" />
+        <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="40" font-family="Arial">set</text>
     </svg>
